@@ -284,6 +284,8 @@ git push -u [псевдоним] [ветка]
 git push -u origin master
 ```
 
+dj[rpev[pijv]]
+
 [Развертывание проекта](project.md)
 
 
